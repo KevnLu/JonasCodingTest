@@ -1,0 +1,34 @@
+2024-09-21 21:36:16,903 [6] INFO  WebApi.App_Start.NinjectWebCommon - This is a test
+2024-09-21 21:41:30,173 [6] INFO  WebApi.App_Start.NinjectWebCommon - This is a test
+2024-09-21 21:43:24,792 [6] INFO  WebApi.App_Start.NinjectWebCommon - This is a test
+2024-09-21 21:44:07,162 [6] INFO  WebApi.App_Start.NinjectWebCommon - This is a test
+2024-09-21 21:44:09,650 [6] ERROR WebServiceLogger - Method 'get_Item' in type 'Proxy_System.Collections.Generic.IList`1[[WebApi.Models.CompanyDto, WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]__36013743' from assembly 'AutoMapper.Proxies, Version=0.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005' does not have an implementation.
+   at System.Reflection.Emit.TypeBuilder.TermCreateClass(RuntimeModule module, Int32 tk, ObjectHandleOnStack type)
+   at System.Reflection.Emit.TypeBuilder.CreateTypeNoLock()
+   at System.Reflection.Emit.TypeBuilder.CreateType()
+   at AutoMapper.Execution.ProxyGenerator.EmitProxy(TypeDescription typeDescription) in C:\projects\automapper\src\AutoMapper\Execution\ProxyGenerator.cs:line 136
+   at AutoMapper.LockingConcurrentDictionary`2.<>c__DisplayClass2_1.<.ctor>b__1() in C:\projects\automapper\src\AutoMapper\LockingConcurrentDictionary.cs:line 15
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.LazyInitValue()
+   at AutoMapper.Execution.ProxyGenerator.GetProxyType(Type interfaceType) in C:\projects\automapper\src\AutoMapper\Execution\ProxyGenerator.cs:line 146
+   at lambda_method(Closure , Task`1 , IList`1 , ResolutionContext )
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at AutoMapper.Mapper.AutoMapper.IMapper.Map[TDestination](Object source) in C:\projects\automapper\src\AutoMapper\Mapper.cs:line 207
+   at WebApi.Controllers.CompanyController.<GetAll>d__4.MoveNext() in E:\Programming\Interview Projects\JonasCodingTest\WebApi\Controllers\CompanyController.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.TaskHelpersExtensions.<CastToObject>d__1`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__6.MoveNext()
+2024-09-21 21:48:38,750 [6] INFO  WebApi.App_Start.NinjectWebCommon - This is a test

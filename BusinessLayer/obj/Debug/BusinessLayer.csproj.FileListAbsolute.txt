@@ -1,0 +1,14 @@
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\bin\Debug\AutoMapper.dll
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\bin\Debug\AutoMapper.pdb
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\bin\Debug\System.ValueTuple.dll
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\bin\Debug\BusinessLayer.Model.dll
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\bin\Debug\DataAccessLayer.Model.dll
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\bin\Debug\BusinessLayer.Model.pdb
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\bin\Debug\DataAccessLayer.Model.pdb
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Programming\Interview Projects\JonasCodingTest\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rxg4CMKF1Y=",
+  "success": true,
+  "projectFilePath": "E:\\Programming\\Interview Projects\\ForUploading\\JonasCodingTest\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zhao Lu\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
+    "C:\\Users\\Zhao Lu\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
